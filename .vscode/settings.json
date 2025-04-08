@@ -50,7 +50,12 @@
         "streambuf": "cpp",
         "text_encoding": "cpp",
         "typeinfo": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "list": "cpp",
+        "set": "cpp",
+        "map": "cpp",
+        "containerpractice2": "cpp",
+        "cstdarg": "cpp"
     },
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "C_Cpp.errorSquiggles": "disabled"
